@@ -1,5 +1,5 @@
 /*
- * Bill Nicholson
+ * Nicholas Loviscek
  * nicholdw@ucmail.uc.edu
  * Printing pyramids using loops. It kind-of works. 
  * What I really want is
@@ -8,6 +8,8 @@
       33333
      4444444
     555555555 
+    
+    team then commit
 */
 package main;
 
